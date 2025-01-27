@@ -1,6 +1,6 @@
 ### About Me✨
-- 👋 I’m @Ishani-Phukan
-- 👀 I’m interested in Reading fiction and learning stuff
+- 👋 Hello World! I’m Ishani-Phukan
+- 👀 I’m interested in Designing, Reading fiction and learning stuff
 - 🌱 I’m currently learning web development!
 - 💞️ I’m looking to collaborate on anything really
 - 😄 Pronouns: she/her
