@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web development!
 - 💞️ I’m looking to collaborate on anything really
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: It's a new year when you decide to improve and work towards it.
+- ⚡ Fun fact: Always learning.
 
 <!---
 Ishani-Phukan/Ishani-Phukan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
