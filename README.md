@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web development!
 - 💞️ I’m looking to collaborate on anything really
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Always learning.
+- ⚡ Fun fact: There is always something to learn.
 
 ### 
 <h2 align="center">My stats</h2>
