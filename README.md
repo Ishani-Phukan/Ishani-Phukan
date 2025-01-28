@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: There is always something to learn.
 
-### My Stats
+### My GitHub Stats
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-### Connect with me!
+### Connect with me🤝!
 <a href="https://x.com/Ishani_Phukan_"><img src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" height="50" alt="X logo"> </a>
 <a href="https://www.linkedin.com/in/ishani-phukan-95745628b/"><img src="https://github.com/Ishani-Phukan/Ishani-Phukan/blob/main/linkedin-removebg-preview.png" height="50" alt="Linkedin logo"></a>
 
