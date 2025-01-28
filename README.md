@@ -1,13 +1,15 @@
-### About Me✨
+### 
+<h2 align="center">About Me✨</h2>
+
 - 👋 Hello World! I’m Ishani-Phukan
 - 👀 I’m interested in Designing, Reading fiction and learning stuff
 - 🌱 I’m currently learning web development!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: There is always something to learn.
 
-### My GitHub Stats
 
-###
+### 
+<h2 align="center">My GitHub Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishani-Phukan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -15,7 +17,7 @@
 </div>
 
 ###
-
+<p align="center">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -31,12 +33,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
+</p>
 
 ###
 
-### Connect with me🤝!
-<a href="https://x.com/Ishani_Phukan_"><img src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" height="50" alt="X logo"> </a>
+### 
+<h2 align="center">Connect with me🤝!</h2>
+<p align="center">
+<a href="https://x.com/Ishani_Phukan_"><img src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" height="50" alt="X logo" > </a>
 <a href="https://www.linkedin.com/in/ishani-phukan-95745628b/"><img src="https://github.com/Ishani-Phukan/Ishani-Phukan/blob/main/linkedin-removebg-preview.png" height="50" alt="Linkedin logo"></a>
+</p>
 
 <!---
 Ishani-Phukan/Ishani-Phukan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
