@@ -5,8 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: There is always something to learn.
 
-### 
-<h2 align="center">My stats</h2>
+### My Stats
 
 ###
 
