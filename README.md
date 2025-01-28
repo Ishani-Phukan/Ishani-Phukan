@@ -35,6 +35,9 @@
 
 ###
 
+### Connect with me!
+<a href="https://x.com/Ishani_Phukan_"><img src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" height="50" alt="X logo"> </a>
+
 <!---
 Ishani-Phukan/Ishani-Phukan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
