@@ -32,6 +32,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="30" alt="git logo">
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="30" alt="github logo">
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="30" alt="linux logo">
+  <img width="12" />
 </div>
 </p>
 
