@@ -43,6 +43,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" height="30" alt="canva logo">
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter logo">
+  <img width="12" />
 </div>
 </p>
 
