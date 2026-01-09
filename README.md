@@ -39,7 +39,9 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="30" alt="linux logo">
   <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg?short_path=0e6a105" height="30" alt="ubuntu logo">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg?short_path=0e6a105" height="30" alt="ubuntu logo">
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" height="30" alt="canva logo">
   <img width="12" />
 </div>
 </p>
